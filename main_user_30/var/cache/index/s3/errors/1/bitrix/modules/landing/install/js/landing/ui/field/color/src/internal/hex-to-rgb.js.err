@@ -1,0 +1,1 @@
+ERROR:1,36:Expected , but found \d [#parser.error.expected]\nexport default function hexToRgb(hex\d string)\n                                    ^

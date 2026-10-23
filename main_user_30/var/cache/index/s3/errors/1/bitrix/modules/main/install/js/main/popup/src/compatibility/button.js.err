@@ -1,0 +1,1 @@
+ERROR:3,8:Expected ; but found type [#parser.error.expected]\ndeclare type ButtonOptions = {\n        ^

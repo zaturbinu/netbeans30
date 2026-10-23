@@ -1,0 +1,1 @@
+ERROR:7,5:Expected ; but found Options [#parser.error.expected]\ntype Options = {\n     ^

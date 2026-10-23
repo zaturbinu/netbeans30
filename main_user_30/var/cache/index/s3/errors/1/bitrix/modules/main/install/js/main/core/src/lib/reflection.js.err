@@ -1,0 +1,1 @@
+ERROR:13,26:Expected , but found \d [#parser.error.expected]\n	static getClass(className\d string | Function)\d Function | null\n	                         ^

@@ -1,0 +1,1 @@
+ERROR:56,29:Expected , but found \d [#parser.error.expected]\n	static makeObservable(target\d Object, namespace\d string)\d void\n	                            ^

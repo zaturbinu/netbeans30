@@ -1,0 +1,1 @@
+ERROR:6,12:Expected ident but found { [#parser.error.expected]\nimport type { BitrixVueComponentProps } from 'ui.vue3';\n            ^

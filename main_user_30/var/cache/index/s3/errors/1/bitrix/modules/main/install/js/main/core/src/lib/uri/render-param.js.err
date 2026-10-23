@@ -1,0 +1,1 @@
+ERROR:3,41:Expected an operand but found \d [#parser.error.expected.operand]\nexport function renderParam(param, value)\d string\n                                         ^

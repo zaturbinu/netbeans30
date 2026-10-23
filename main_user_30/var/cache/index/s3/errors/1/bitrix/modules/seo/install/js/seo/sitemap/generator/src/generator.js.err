@@ -1,0 +1,1 @@
+ERROR:4,5:Expected ; but found JobData [#parser.error.expected]\ntype JobData = {\n     ^

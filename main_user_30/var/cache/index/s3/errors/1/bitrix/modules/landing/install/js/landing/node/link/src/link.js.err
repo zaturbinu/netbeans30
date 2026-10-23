@@ -1,0 +1,1 @@
+ERROR:40,13:Expected an operand but found \d [#parser.error.expected.operand]\n	isMenuMode()\d boolean\n	            ^

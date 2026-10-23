@@ -1,0 +1,1 @@
+ERROR:3,48:Expected an operand but found \d [#parser.error.expected.operand]\nexport default function getFilterStub(text = '')\d {key\d string, name\d string, value\d any}\n                                                ^

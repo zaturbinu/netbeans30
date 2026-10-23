@@ -1,0 +1,1 @@
+ERROR:21,18:Expected ; but found \d [#parser.error.expected]\n	static BG_URL_VAR\d string = '--bg-url';\n	                 ^

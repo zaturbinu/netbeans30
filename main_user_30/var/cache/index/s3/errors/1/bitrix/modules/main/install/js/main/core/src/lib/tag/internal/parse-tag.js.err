@@ -1,0 +1,1 @@
+ERROR:5,5:Expected ; but found TagResult [#parser.error.expected]\ntype TagResult = {\n     ^

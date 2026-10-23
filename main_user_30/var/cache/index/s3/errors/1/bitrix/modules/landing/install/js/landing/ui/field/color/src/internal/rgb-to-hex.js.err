@@ -1,0 +1,1 @@
+ERROR:1,36:Expected , but found \d [#parser.error.expected]\nexport default function rgbToHex(rgb\d {r\d number, g\d number, b\d number})\d string\n                                    ^

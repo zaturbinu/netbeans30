@@ -1,0 +1,1 @@
+ERROR:6,5:Expected ; but found SelectorOptions [#parser.error.expected]\ntype SelectorOptions = {\n     ^

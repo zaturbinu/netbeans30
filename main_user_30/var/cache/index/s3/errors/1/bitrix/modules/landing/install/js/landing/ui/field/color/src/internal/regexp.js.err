@@ -1,0 +1,1 @@
+ERROR:1,39:Expected , but found \d [#parser.error.expected]\nexport function regexpWoStartEnd(regexp\d RegExp)\d RegExp\n                                       ^

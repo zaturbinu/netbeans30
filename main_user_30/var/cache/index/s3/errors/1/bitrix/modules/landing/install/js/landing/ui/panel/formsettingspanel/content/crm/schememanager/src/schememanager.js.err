@@ -1,0 +1,1 @@
+ERROR:1,5:Expected ; but found SchemesType [#parser.error.expected]\ntype SchemesType = Array<{\n     ^

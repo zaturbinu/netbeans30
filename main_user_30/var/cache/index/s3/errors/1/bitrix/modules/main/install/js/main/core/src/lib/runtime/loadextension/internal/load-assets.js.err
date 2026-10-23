@@ -1,0 +1,1 @@
+ERROR:1,20:Missing assignment to constant "ajaxController" [#parser.error.missing.const.assignment]\nconst ajaxController\d string = 'main.bitrix.main.controller.loadext.getextensions';\n                    ^

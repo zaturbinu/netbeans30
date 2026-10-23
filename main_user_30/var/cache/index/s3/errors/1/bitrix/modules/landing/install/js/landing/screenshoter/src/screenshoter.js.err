@@ -1,0 +1,1 @@
+ERROR:15,35:Expected , but found \d [#parser.error.expected]\n	static makeBlockScreenshot(blockId\d number)\d Promise<File>\n	                                  ^

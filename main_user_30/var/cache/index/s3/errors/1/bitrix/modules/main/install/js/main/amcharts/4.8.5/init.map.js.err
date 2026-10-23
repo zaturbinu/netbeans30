@@ -1,0 +1,1 @@
+ERROR:1,10:Expected ; but found \d [#parser.error.expected]\n{"version"\d3,"sources"\d["init.js"],"names"\d["am4core","addLicense"],"mappings"\d"AACAA,QAAQC,WAAW","file"\d"init.map.js"}\n          ^

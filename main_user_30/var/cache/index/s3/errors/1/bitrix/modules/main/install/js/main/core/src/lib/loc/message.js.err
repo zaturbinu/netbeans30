@@ -1,0 +1,1 @@
+ERROR:6,5:Expected ; but found messageParam [#parser.error.expected]\ntype messageParam = string | {[key\d string]\d string | number};\n     ^

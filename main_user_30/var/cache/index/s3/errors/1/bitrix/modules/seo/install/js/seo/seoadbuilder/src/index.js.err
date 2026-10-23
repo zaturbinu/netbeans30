@@ -1,0 +1,1 @@
+ERROR:8,14:Expected } but found Account [#parser.error.expected]\nimport { type Account } from './types/account';\n              ^

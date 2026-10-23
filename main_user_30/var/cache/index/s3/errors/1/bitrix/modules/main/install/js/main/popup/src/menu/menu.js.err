@@ -1,0 +1,1 @@
+ERROR:5,14:Expected } but found MenuOptions [#parser.error.expected]\nimport { type MenuOptions, type MenuItemOptions } from './menu-types';\n              ^

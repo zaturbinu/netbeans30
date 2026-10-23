@@ -1,0 +1,1 @@
+ERROR:9,20:Expected ; but found \d [#parser.error.expected]\n	static BITRIX_COLOR\d string = '#2fc6f6';\n	                   ^

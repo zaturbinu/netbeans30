@@ -1,0 +1,1 @@
+ERROR:67,25:Expected , but found \d [#parser.error.expected]\nfunction isAllowedKey(key\d string)\d boolean\n                         ^

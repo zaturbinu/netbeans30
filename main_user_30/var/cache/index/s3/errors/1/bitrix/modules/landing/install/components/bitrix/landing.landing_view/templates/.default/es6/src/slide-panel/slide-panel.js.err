@@ -1,0 +1,1 @@
+ERROR:3,14:Expected } but found CopilotChat [#parser.error.expected]\nimport { type CopilotChat as CopilotChatInstance } from 'ai.copilot-chat.core';\n              ^

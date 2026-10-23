@@ -1,0 +1,1 @@
+ERROR:3,46:Expected , but found \d [#parser.error.expected]\nexport default function onAnimationEnd(element\d HTMLElement, animationName\d string)\n                                              ^

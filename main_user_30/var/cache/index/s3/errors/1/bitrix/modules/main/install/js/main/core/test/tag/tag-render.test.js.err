@@ -1,0 +1,1 @@
+ERROR:5,33:Expected , but found \d [#parser.error.expected]\nfunction performanceTest(callback\d () => void, count = 10)\n                                 ^

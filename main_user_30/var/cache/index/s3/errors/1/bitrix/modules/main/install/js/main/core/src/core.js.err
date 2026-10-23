@@ -1,0 +1,1 @@
+ERROR:49,7:invalid export declaration [#parser.error.invalid.export]\nexport type * from './lib/types/index';\n       ^

@@ -1,0 +1,1 @@
+ERROR:3,12:Expected ident but found { [#parser.error.expected]\nimport type {Block, Landing, Site, Template, CreatePageOptions, SourceResponse, PreparedResponse} from './types';\n            ^

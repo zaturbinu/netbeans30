@@ -1,0 +1,1 @@
+ERROR:3,38:Expected an operand but found \d [#parser.error.expected.operand]\nexport default function isEmpty(value)\d boolean\n                                      ^

@@ -1,0 +1,1 @@
+ERROR:6,29:Expected an operand but found \d [#parser.error.expected.operand]\nexport function getInstance()\d SliderManager\n                             ^

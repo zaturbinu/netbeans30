@@ -1,0 +1,1 @@
+ERROR:10,17:Expected ; but found \d [#parser.error.expected]\n	static BaseCache\d BaseCache = BaseCache;\n	                ^

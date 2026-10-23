@@ -1,0 +1,1 @@
+ERROR:6,47:Expected , but found \d [#parser.error.expected]\nexport default function isBgImageString(bgImage\d string)\n                                               ^

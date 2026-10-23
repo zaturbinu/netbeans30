@@ -1,0 +1,1 @@
+ERROR:1,42:Expected , but found \d [#parser.error.expected]\nexport function fetchBlockImageNodes(block\d BX.Landing.Block)\d Array<BX.Landing.Node.Img>\n                                          ^

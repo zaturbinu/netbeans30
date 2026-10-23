@@ -1,0 +1,1 @@
+ERROR:72,14:Expected ) but found \d [#parser.error.expected]\n	set mode(mode\d string)\d void\n	             ^

@@ -1,0 +1,2 @@
+ERROR:45,39:Expected ) but found \d [#parser.error.expected]\n		Event.bind(this.root, 'click', (event\d MouseEvent) => {\n		                                     ^
+ERROR:64,3:Expected ident but found ) [#parser.error.expected]\n		});\n		 ^

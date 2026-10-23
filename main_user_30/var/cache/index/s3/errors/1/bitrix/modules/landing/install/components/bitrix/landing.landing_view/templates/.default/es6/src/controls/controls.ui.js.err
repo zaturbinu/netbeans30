@@ -1,0 +1,1 @@
+ERROR:6,5:Expected ; but found LeftContainerOptions [#parser.error.expected]\ntype LeftContainerOptions = {\n     ^

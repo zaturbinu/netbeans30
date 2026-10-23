@@ -1,0 +1,1 @@
+ERROR:4,5:Expected ; but found HighlightItem [#parser.error.expected]\ntype HighlightItem = {\n     ^

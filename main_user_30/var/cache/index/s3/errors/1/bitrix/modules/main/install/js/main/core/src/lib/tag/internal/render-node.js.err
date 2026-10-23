@@ -1,0 +1,1 @@
+ERROR:7,5:Expected ; but found RenderNodeOptions [#parser.error.expected]\ntype RenderNodeOptions = {\n     ^

@@ -1,0 +1,1 @@
+ERROR:9,5:Expected ; but found Controls [#parser.error.expected]\ntype Controls = {\n     ^

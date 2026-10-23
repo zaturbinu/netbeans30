@@ -1,0 +1,1 @@
+ERROR:38,5:Expected ; but found TrackingParam [#parser.error.expected]\ntype TrackingParam = { type\d string, value\d string } | undefined;\n     ^

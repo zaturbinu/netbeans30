@@ -1,0 +1,1 @@
+ERROR:44,24:Expected ; but found \d [#parser.error.expected]\n	static HEX_DEFAULT_TEXT\d string = '#hex';\n	                       ^

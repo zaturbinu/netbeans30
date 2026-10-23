@@ -1,0 +1,1 @@
+ERROR:1,49:Expected , but found \d [#parser.error.expected]\nexport default function rgbaStringToRgbString(str\d string)\d string | null\n                                                 ^

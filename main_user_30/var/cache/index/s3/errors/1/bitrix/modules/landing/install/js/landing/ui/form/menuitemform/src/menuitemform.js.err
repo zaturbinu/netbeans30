@@ -1,0 +1,2 @@
+ERROR:31,19:Expected comma but found \d [#parser.error.expected.comma]\n		const [firstField\d BX.Landing.UI.Field.Link] = this.fields;\n		                 ^
+ERROR:43,22:Expected , but found \d [#parser.error.expected]\n	[onHeaderClick](event\d MouseEvent)\n	                     ^

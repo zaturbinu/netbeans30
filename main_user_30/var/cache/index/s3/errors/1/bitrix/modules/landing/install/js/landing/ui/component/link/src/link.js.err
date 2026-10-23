@@ -1,0 +1,1 @@
+ERROR:15,5:Expected ; but found LinkOptions [#parser.error.expected]\ntype LinkOptions = {\n     ^

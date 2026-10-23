@@ -1,0 +1,1 @@
+ERROR:12,16:Expected ) but found \d [#parser.error.expected]\n	set links(links\d Array)\d void\n	               ^

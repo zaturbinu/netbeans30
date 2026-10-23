@@ -1,0 +1,1 @@
+ERROR:3,14:Expected } but found PageRedirectOptions [#parser.error.expected]\nimport { type PageRedirectOptions } from '../lib/types/page';\n              ^

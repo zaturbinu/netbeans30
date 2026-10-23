@@ -1,0 +1,1 @@
+ERROR:14,13:Expected ; but found \d [#parser.error.expected]\n	static items\d [] = [];\n	            ^

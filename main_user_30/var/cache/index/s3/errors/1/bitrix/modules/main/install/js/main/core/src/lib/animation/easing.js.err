@@ -1,0 +1,1 @@
+ERROR:4,14:Expected } but found EasingOptions [#parser.error.expected]\nimport { type EasingOptions, type TransitionFunction } from './easing-options';\n              ^

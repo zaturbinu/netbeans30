@@ -1,0 +1,1 @@
+ERROR:3,33:Expected , but found \d [#parser.error.expected]\nexport default function isHex(hex\d string)\n                                 ^

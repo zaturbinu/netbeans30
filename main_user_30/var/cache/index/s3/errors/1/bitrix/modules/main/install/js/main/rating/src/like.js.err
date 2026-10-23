@@ -1,0 +1,1 @@
+ERROR:10,5:Expected ; but found Params [#parser.error.expected]\ntype Params = {\n     ^

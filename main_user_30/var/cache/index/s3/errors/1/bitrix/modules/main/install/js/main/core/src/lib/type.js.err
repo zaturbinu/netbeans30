@@ -1,0 +1,1 @@
+ERROR:15,22:Expected , but found \d [#parser.error.expected]\n	static isString(value\d any)\d boolean\n	                     ^

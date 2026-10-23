@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.2//EN" "https://netbeans.apache.org/dtds/EditorFontsColors-1_2.dtd">
+<fontscolors>
+    <fontcolor bgColor="white" foreColor="white" name="text-limit-line-color"/>
+    <fontcolor bgColor="ffffffe0" name="coverage-partial"/>
+    <fontcolor bgColor="ffe0ffe0" name="coverage-inferred"/>
+    <fontcolor foreColor="white" name="nbeditor-bracesMatching-sidebar"/>
+    <fontcolor bgColor="ffffcccc" name="coverage-uncovered"/>
+    <fontcolor bgColor="ffccffcc" name="remove-surround-code-remain"/>
+    <fontcolor bgColor="fff5f5f5" foreColor="ffb4b4b4" name="remove-surround-code-delete"/>
+    <fontcolor foreColor="lightGray" name="indent-guide-lines"/>
+    <fontcolor bgColor="ffccffcc" name="coverage-covered"/>
+</fontscolors>

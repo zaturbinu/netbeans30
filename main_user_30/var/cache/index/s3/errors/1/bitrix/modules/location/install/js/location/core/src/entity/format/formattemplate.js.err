@@ -1,0 +1,1 @@
+ERROR:6,17:Expected , but found \d [#parser.error.expected]\n	constructor(type\d string, template\d string)\n	                ^

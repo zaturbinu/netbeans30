@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="bottomSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue=""/>
+    </fileobject>
+    <fileobject name="code_evaluator">
+        <attr name="WinSys-TCRef-Order" stringvalue="evaluatorPane"/>
+    </fileobject>
+    <fileobject name="commonpalette">
+        <attr name="WinSys-TCRef-Order" stringvalue="CommonPalette"/>
+    </fileobject>
+    <fileobject name="editor">
+        <attr name="WinSys-TCRef-Order" stringvalue="MultiView-typescript21533047xt#002Ehistory#007C_1/MultiView-javascript40A3E017xt#002Ehistory#007C_1/CoverageReportTopComponent/TreeDiffViewerTopComponent/JShellEditor/dbgInstances/MultiView-properties1F6EDEB1text#002Ehistory#007C"/>
+    </fileobject>
+    <fileobject name="explorer">
+        <attr name="WinSys-TCRef-Order" stringvalue="projectTabLogical_tc/services/projectTab_tc/favorites/DashboardTopComponent/debuggingView"/>
+    </fileobject>
+    <fileobject name="leftSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue=""/>
+    </fileobject>
+    <fileobject name="navigator">
+        <attr name="WinSys-TCRef-Order" stringvalue="navigatorTC/breakpointsView/TruffleASTDebugView/DomTC/PhpHierarchyTopComponent"/>
+    </fileobject>
+    <fileobject name="output">
+        <attr name="WinSys-TCRef-Order" stringvalue="watchesView/NotificationCenterTopComponent/localsView/resultsView/callstackView/sources/sessionsView/threadsView/bookmarks/versioning_output/search-results/gsf-testrunner-results/refactoring-preview/find-usages/TerminalContainerTopComponent/svnversioning/hgversioningTC/GitVersioning/GitRepositories/TaskListTopComponent/TextToolsTopComponent/CallHierarchyTopComponent/AnalysisResultTopComponent/eventsView/profiler_pp/AnalyzerTopComponent/JavadocTopComponent/classes/CheckRegexTopComponent"/>
+    </fileobject>
+    <fileobject name="properties">
+        <attr name="WinSys-TCRef-Order" stringvalue="PUMLTopComponent_2/CssStylesTC/properties/AnalyzeStackTopComponent/KnockoutTC/JavaHierarchyTopComponent/PUMLTopComponent_1/PUMLTopComponent_3/PUMLTopComponent_4/PUMLTopComponent_5/PUMLTopComponent_6/PUMLTopComponent_7/PUMLTopComponent_8/PUMLTopComponent_9/PUMLTopComponent_10"/>
+    </fileobject>
+    <fileobject name="rightSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue="PUMLTopComponent/output"/>
+    </fileobject>
+    <fileobject name="topSlidingSide">
+        <attr name="WinSys-TCRef-Order" stringvalue=""/>
+    </fileobject>
+    <fileobject name="webpreview">
+        <attr name="WinSys-TCRef-Order" stringvalue=""/>
+    </fileobject>
+</attributes>

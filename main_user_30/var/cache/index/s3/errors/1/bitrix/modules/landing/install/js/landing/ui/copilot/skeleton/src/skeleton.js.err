@@ -1,0 +1,1 @@
+ERROR:3,12:Expected ident but found { [#parser.error.expected]\nimport type { SkeletonBlock } from './skeleton-block';\n            ^

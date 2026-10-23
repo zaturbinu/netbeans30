@@ -1,0 +1,1 @@
+ERROR:21,37:Expected ) but found \d [#parser.error.expected]\nexport default function debug(...args\d any)\n                                     ^

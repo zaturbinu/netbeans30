@@ -1,0 +1,1 @@
+ERROR:18,21:Expected , but found \d [#parser.error.expected]\n	static isEmail(email\d mixed)\d boolean\n	                    ^

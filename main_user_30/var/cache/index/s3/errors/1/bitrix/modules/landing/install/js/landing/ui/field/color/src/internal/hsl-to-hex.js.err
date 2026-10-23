@@ -1,0 +1,1 @@
+ERROR:4,36:Expected , but found \d [#parser.error.expected]\nexport default function hslToHex(hsl\d {h\d number, s\d number, l\d number})\d string\n                                    ^

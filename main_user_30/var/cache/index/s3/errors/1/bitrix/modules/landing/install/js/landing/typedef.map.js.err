@@ -1,0 +1,1 @@
+ERROR:1,10:Expected ; but found \d [#parser.error.expected]\n{"version"\d3,"file"\d"typedef.map.js","names"\d[],"sources"\d[],"mappings"\d""}\n          ^

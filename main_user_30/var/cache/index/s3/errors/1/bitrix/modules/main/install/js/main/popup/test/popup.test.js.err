@@ -1,0 +1,3 @@
+ERROR:64,57:Expected , but found \d [#parser.error.expected]\n		const onShowNew = sinon.stub().callsFake(function(event\d BaseEvent) {\n		                                                       ^
+ERROR:78,58:Expected , but found \d [#parser.error.expected]\n		const onCloseNew = sinon.stub().callsFake(function(event\d BaseEvent) {\n		                                                        ^
+ERROR:117,1:Expected an operand but found } [#parser.error.expected.operand]\n	});\n	^

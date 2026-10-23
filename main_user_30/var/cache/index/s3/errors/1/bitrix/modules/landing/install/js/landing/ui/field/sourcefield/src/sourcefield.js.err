@@ -1,0 +1,1 @@
+ERROR:5,12:Expected ident but found { [#parser.error.expected]\nimport type { SourceItem } from './internal/prepare-sources';\n            ^

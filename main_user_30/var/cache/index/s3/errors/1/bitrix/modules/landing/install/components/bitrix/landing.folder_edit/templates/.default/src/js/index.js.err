@@ -1,0 +1,1 @@
+ERROR:3,5:Expected ; but found FolderEditOptions [#parser.error.expected]\ntype FolderEditOptions = {\n     ^

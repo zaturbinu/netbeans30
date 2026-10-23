@@ -1,0 +1,1 @@
+ERROR:11,19:Expected ; but found \d [#parser.error.expected]\n	static WIDTH_LIMIT\d number = 768;\n	                  ^

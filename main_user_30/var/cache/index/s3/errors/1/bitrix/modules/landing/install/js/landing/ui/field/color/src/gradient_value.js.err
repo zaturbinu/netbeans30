@@ -1,0 +1,1 @@
+ERROR:14,35:Expected { but found implements [#parser.error.expected]\nexport default class GradientValue implements IColorValue\n                                   ^

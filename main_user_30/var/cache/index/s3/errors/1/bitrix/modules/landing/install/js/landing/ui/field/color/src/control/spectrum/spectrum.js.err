@@ -1,0 +1,1 @@
+ERROR:9,26:Expected ; but found \d [#parser.error.expected]\n	static DEFAULT_SATURATION\d number = 100;\n	                         ^

@@ -1,0 +1,74 @@
+авг. 30, 2026 2:43:27 AM org.netbeans.updater.UpdaterFrame <clinit>
+INFO: Entering updater.jar .................................................................... 
+авг. 30, 2026 2:43:29 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: 780: Unpacking org-netbeans-modules-plantumlnb.nbm
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/config/Modules/org-netbeans-modules-plantumlnb.xml to c:\temp\netbeans\main_user_30\config\Modules\org-netbeans-modules-plantumlnb.xml
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/commons-io/commons-io.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\commons-io\commons-io.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/commons-logging/commons-logging.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\commons-logging\commons-logging.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/javax-annotation/javax.annotation-api.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\javax-annotation\javax.annotation-api.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-cli.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\net-sourceforge-plantuml-depend\plantuml-dependency-cli.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-common-cli.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\net-sourceforge-plantuml-depend\plantuml-dependency-common-cli.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-common.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\net-sourceforge-plantuml-depend\plantuml-dependency-common.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml/plantuml.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\net-sourceforge-plantuml\plantuml.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-ant/ant-launcher.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-ant\ant-launcher.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-ant/ant.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-ant\ant.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-anim.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-anim.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-awt-util.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-awt-util.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-bridge.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-bridge.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-constants.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-constants.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-css.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-css.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-dom.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-dom.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-ext.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-ext.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-gui-util.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-gui-util.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-gvt.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-gvt.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-i18n.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-i18n.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-parser.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-parser.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-script.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-script.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-shared-resources.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-shared-resources.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-svg-dom.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-svg-dom.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-swing.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-swing.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-util.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-util.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-xml.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\batik-xml.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/xmlgraphics-commons.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\org-apache-xmlgraphics\xmlgraphics-commons.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/xml-apis/xml-apis-ext.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\xml-apis\xml-apis-ext.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/ext/org.netbeans.modules.plantumlnb/1/xml-apis/xml-apis.jar to c:\temp\netbeans\main_user_30\modules\ext\org.netbeans.modules.plantumlnb\1\xml-apis\xml-apis.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: Copied file c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm:netbeans/modules/org-netbeans-modules-plantumlnb.jar to c:\temp\netbeans\main_user_30\modules\org-netbeans-modules-plantumlnb.jar
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.ModuleUpdater unpack
+INFO: File c:\temp\netbeans\main_user_30\update\download\org-netbeans-modules-plantumlnb.nbm deleted.
+авг. 30, 2026 2:43:30 AM org.netbeans.updater.XMLUtil write
+INFO: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@6370c128
+авг. 30, 2026 2:43:31 AM org.netbeans.updater.UpdateTracking$Module write
+INFO: File c:\temp\netbeans\main_user_30\update_tracking\org-netbeans-modules-plantumlnb.xml modified.
+авг. 30, 2026 2:43:34 AM org.netbeans.updater.ModuleUpdater deleteAdditionalInfo
+INFO: File c:\temp\netbeans\main_user_30\update\download\additional_information.xml deleted.

@@ -1,0 +1,1 @@
+ERROR:1,23:Missing assignment to constant "extensionsStorage" [#parser.error.missing.const.assignment]\nconst extensionsStorage\d Map<string, Promise<string>> = new Map();\n                       ^

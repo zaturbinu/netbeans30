@@ -1,0 +1,1 @@
+ERROR:3,7:invalid export declaration [#parser.error.invalid.export]\nexport type DataType = {\n       ^

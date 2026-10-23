@@ -1,0 +1,1 @@
+ERROR:319,13:Expected an operand but found \d [#parser.error.expected.operand]\n	isEditable()\d boolean\n	            ^

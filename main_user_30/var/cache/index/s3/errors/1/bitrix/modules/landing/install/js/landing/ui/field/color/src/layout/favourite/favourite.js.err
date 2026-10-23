@@ -1,0 +1,1 @@
+ERROR:9,24:Expected ; but found \d [#parser.error.expected]\n	static USER_OPTION_NAME\d string = 'color_field_favourite_colors';\n	                       ^

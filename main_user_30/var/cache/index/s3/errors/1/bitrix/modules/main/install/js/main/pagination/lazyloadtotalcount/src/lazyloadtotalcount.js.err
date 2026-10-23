@@ -1,0 +1,1 @@
+ERROR:27,18:Expected an operand but found \d [#parser.error.expected.operand]\n	getCounterLabel()\d HTMLElement\n	                 ^

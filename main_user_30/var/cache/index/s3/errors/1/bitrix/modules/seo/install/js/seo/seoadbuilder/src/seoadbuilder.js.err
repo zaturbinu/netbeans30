@@ -1,0 +1,1 @@
+ERROR:5,14:Expected } but found AdBuilderOptions [#parser.error.expected]\nimport { type AdBuilderOptions } from './types/adbuilderoptions';\n              ^

@@ -1,0 +1,1 @@
+ERROR:6,7:invalid export declaration [#parser.error.invalid.export]\nexport type ExtensionExports = {[key\d string]\d any};\n       ^

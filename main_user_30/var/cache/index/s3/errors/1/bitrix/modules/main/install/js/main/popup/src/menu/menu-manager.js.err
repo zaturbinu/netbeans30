@@ -1,0 +1,1 @@
+ERROR:10,12:Expected ; but found \d [#parser.error.expected]\n	static Data\d { [id\d string]\d Menu } = {};\n	           ^

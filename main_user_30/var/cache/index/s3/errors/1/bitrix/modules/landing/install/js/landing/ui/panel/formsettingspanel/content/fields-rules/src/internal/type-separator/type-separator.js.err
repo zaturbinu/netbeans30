@@ -1,0 +1,1 @@
+ERROR:8,5:Expected ; but found TypeSeparatorOptions [#parser.error.expected]\ntype TypeSeparatorOptions = {\n     ^

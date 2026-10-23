@@ -1,0 +1,1 @@
+ERROR:1,14:Expected } but found LoadableExtensionEntry [#parser.error.expected]\nimport { type LoadableExtensionEntry } from '../load-extension';\n              ^

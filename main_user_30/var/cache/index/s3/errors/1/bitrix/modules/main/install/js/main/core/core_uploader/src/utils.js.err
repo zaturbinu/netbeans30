@@ -1,0 +1,1 @@
+ERROR:3,33:Expected ) but found \d [#parser.error.expected]\nconst getFormDataSize = (formData\d FormData)\d Array =>\n                                 ^

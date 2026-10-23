@@ -1,0 +1,1 @@
+ERROR:3,43:Expected ) but found \d [#parser.error.expected]\nexport const isTextNodeInButton = (textNode\d Text) => {\n                                           ^

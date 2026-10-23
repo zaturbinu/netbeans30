@@ -1,0 +1,1 @@
+ERROR:5,5:Expected ; but found ListSettingsFieldItemOptions [#parser.error.expected]\ntype ListSettingsFieldItemOptions = {\n     ^

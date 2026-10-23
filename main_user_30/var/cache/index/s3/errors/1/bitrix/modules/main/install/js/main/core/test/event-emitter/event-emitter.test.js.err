@@ -1,0 +1,4 @@
+ERROR:2117,58:Expected , but found \d [#parser.error.expected]\n			const listener1 = sinon.stub().callsFake(function(event\d typeof(BaseEvent)) {\n			                                                       ^
+ERROR:2123,58:Expected , but found \d [#parser.error.expected]\n			const listener2 = sinon.stub().callsFake(function(event\d typeof(BaseEvent)) {\n			                                                       ^
+ERROR:2133,58:Expected , but found \d [#parser.error.expected]\n			const listener3 = sinon.stub().callsFake(function(event\d typeof(BaseEvent)) {\n			                                                       ^
+ERROR:2138,58:Expected , but found \d [#parser.error.expected]\n			const listener4 = sinon.stub().callsFake(function(event\d typeof(BaseEvent)) {\n			                                                       ^

@@ -1,0 +1,1 @@
+ERROR:27,6:Expected ; but found \d [#parser.error.expected]\n	stack\d ?Stack = null;\n	     ^

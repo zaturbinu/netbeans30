@@ -1,0 +1,1 @@
+ERROR:9,12:Expected ident but found { [#parser.error.expected]\nimport type {AutocompleteServiceParams} from 'location.core';\n            ^

@@ -1,0 +1,1 @@
+ERROR:5,28:Expected ) but found \d [#parser.error.expected]\nconst editComponent = (entry\d Entry) => {\n                            ^

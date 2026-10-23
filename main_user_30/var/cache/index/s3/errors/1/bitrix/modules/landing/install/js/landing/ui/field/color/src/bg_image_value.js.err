@@ -1,0 +1,1 @@
+ERROR:17,34:Expected { but found implements [#parser.error.expected]\nexport default class BgImageValue implements IColorValue\n                                  ^

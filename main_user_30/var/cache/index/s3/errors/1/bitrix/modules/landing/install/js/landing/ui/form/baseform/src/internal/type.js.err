@@ -1,0 +1,1 @@
+ERROR:1,7:expected ImportClause or ModuleSpecifier [#parser.error.expected.import]\nimport typeof {BaseField} from 'landing.ui.field.basefield';\n       ^

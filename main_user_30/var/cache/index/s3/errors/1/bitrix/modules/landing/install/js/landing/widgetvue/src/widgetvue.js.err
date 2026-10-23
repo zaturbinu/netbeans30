@@ -1,0 +1,1 @@
+ERROR:9,23:Expected ; but found \d [#parser.error.expected]\n	static runningAppNodes\d Set<HTMLElement> = new Set();\n	                      ^

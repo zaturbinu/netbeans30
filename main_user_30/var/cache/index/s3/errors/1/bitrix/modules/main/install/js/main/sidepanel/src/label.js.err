@@ -1,0 +1,1 @@
+ERROR:3,14:Expected } but found Slider [#parser.error.expected]\nimport { type Slider } from './slider';\n              ^

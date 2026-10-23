@@ -1,0 +1,2 @@
+ERROR:64,52:Expected ) but found \d [#parser.error.expected]\n			EventEmitter.subscribe('onPullEvent-main', (event\d BaseEvent) => {\n			                                                 ^
+ERROR:71,4:Expected ident but found ) [#parser.error.expected]\n			});\n			 ^

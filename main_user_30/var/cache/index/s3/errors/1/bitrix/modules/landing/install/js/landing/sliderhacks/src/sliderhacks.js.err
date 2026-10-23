@@ -1,0 +1,1 @@
+ERROR:13,24:Expected an operand but found \d [#parser.error.expected.operand]\n	static getContentArea()\d HTMLElement\n	                       ^

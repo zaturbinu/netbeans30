@@ -1,0 +1,1 @@
+ERROR:14,27:Expected , but found \d [#parser.error.expected]\n	adjustPosition(bindOptions\d {\n	                          ^

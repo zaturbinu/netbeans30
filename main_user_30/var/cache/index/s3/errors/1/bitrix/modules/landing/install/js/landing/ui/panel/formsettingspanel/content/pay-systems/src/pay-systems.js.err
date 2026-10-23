@@ -1,0 +1,1 @@
+ERROR:19,15:Expected ; but found \d [#parser.error.expected]\n	#schemeManager\d SchemeManager;\n	              ^

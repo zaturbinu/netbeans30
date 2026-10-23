@@ -1,0 +1,1 @@
+ERROR:3,30:Expected { but found < [#parser.error.expected]\nexport default class BaseCache<T>\n                              ^

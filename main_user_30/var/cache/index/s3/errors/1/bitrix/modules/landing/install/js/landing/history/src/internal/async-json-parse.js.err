@@ -1,0 +1,1 @@
+ERROR:10,43:Expected an operand but found \d [#parser.error.expected.operand]\nexport default function asyncJsonParse(str)\d Promise<{[key\d string]\d any} | Array<any>>\n                                           ^

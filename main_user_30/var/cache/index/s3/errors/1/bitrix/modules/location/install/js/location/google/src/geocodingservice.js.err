@@ -1,0 +1,1 @@
+ERROR:36,27:Expected , but found \d [#parser.error.expected]\n	#convertLocationType(types\d Array)\n	                          ^

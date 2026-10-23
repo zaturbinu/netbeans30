@@ -1,0 +1,1 @@
+ERROR:6,9:Expected , but found \d [#parser.error.expected]\n	sections\d Array<string>,\n	        ^

@@ -1,0 +1,1 @@
+ERROR:10,5:Expected ; but found PaySystemSelectorOptions [#parser.error.expected]\ntype PaySystemSelectorOptions = {\n     ^

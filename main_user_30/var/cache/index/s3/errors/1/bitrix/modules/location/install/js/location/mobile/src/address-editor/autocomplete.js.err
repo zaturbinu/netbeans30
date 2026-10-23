@@ -1,0 +1,1 @@
+ERROR:58,15:Expected an operand but found \d [#parser.error.expected.operand]\n		search(query)\d void\n		             ^

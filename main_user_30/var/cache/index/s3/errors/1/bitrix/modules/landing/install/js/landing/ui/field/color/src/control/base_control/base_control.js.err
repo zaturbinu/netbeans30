@@ -1,0 +1,1 @@
+ERROR:11,20:Expected ; but found \d [#parser.error.expected]\n	static ACTIVE_CLASS\d string = 'active';\n	                   ^

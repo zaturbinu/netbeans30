@@ -1,0 +1,1 @@
+ERROR:3,5:Expected ; but found PublicationOptions [#parser.error.expected]\ntype PublicationOptions = {\n     ^

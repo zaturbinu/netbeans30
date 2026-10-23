@@ -1,0 +1,1 @@
+ERROR:12,21:Expected an operand but found \d [#parser.error.expected.operand]\n	static getInstance()\d PageObject\n	                    ^

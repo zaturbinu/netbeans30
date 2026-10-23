@@ -1,0 +1,1 @@
+ERROR:7,28:Expected , but found \d [#parser.error.expected]\nfunction parseProps(sections\d string[], ...substitutions\d string[])\d {[key\d string]\d string}\n                            ^

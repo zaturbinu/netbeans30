@@ -1,0 +1,1 @@
+ERROR:3,5:Expected ; but found ActionOptions [#parser.error.expected]\ntype ActionOptions = {\n     ^

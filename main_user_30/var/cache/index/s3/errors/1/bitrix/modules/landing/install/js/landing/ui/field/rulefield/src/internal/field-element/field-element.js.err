@@ -1,0 +1,1 @@
+ERROR:10,5:Expected ; but found FieldElementOptions [#parser.error.expected]\ntype FieldElementOptions = {\n     ^

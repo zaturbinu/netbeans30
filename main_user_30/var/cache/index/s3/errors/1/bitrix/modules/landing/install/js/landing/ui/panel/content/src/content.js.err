@@ -1,0 +1,1 @@
+ERROR:12,12:Expected ident but found { [#parser.error.expected]\nimport type {BaseCard} from 'landing.ui.card.basecard';\n            ^

@@ -1,0 +1,1 @@
+ERROR:3,42:Expected , but found \d [#parser.error.expected]\nexport function convertBitrixFormat(format\d any)\d string\n                                          ^

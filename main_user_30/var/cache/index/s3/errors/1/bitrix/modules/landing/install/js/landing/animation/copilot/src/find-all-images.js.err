@@ -1,0 +1,1 @@
+ERROR:1,50:Expected ) but found \d [#parser.error.expected]\nexport const findAllImagesWithBackground = (target\d HTMLElement) => {\n                                                  ^

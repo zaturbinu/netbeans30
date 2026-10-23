@@ -1,0 +1,1 @@
+ERROR:17,29:Expected , but found \d [#parser.error.expected]\n	static #getRegion(languageId\d string)\d string\n	                            ^

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="org.netbeans.modules.plantumlnb/1">
+    <module_version install_time="1788039810003" last="true" origin="NetBeans Plugin Portal" specification_version="1.15">
+        <file crc="4218632369" name="config/Modules/org-netbeans-modules-plantumlnb.xml"/>
+        <file crc="3285119176" name="modules/ext/org.netbeans.modules.plantumlnb/1/commons-io/commons-io.jar"/>
+        <file crc="4002269959" name="modules/ext/org.netbeans.modules.plantumlnb/1/commons-logging/commons-logging.jar"/>
+        <file crc="3083064478" name="modules/ext/org.netbeans.modules.plantumlnb/1/javax-annotation/javax.annotation-api.jar"/>
+        <file crc="586518071" name="modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-cli.jar"/>
+        <file crc="2377554990" name="modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-common-cli.jar"/>
+        <file crc="3906644934" name="modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml-depend/plantuml-dependency-common.jar"/>
+        <file crc="2918652048" name="modules/ext/org.netbeans.modules.plantumlnb/1/net-sourceforge-plantuml/plantuml.jar"/>
+        <file crc="2782992477" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-ant/ant-launcher.jar"/>
+        <file crc="2161409478" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-ant/ant.jar"/>
+        <file crc="2742364778" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-anim.jar"/>
+        <file crc="4159565053" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-awt-util.jar"/>
+        <file crc="2508450406" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-bridge.jar"/>
+        <file crc="4058815306" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-constants.jar"/>
+        <file crc="1049606057" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-css.jar"/>
+        <file crc="2660997073" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-dom.jar"/>
+        <file crc="2056878591" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-ext.jar"/>
+        <file crc="2831031020" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-gui-util.jar"/>
+        <file crc="4264434251" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-gvt.jar"/>
+        <file crc="2957804625" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-i18n.jar"/>
+        <file crc="3220991725" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-parser.jar"/>
+        <file crc="3244794206" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-script.jar"/>
+        <file crc="1082166373" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-shared-resources.jar"/>
+        <file crc="1101337341" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-svg-dom.jar"/>
+        <file crc="1132972505" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-swing.jar"/>
+        <file crc="1345449169" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-util.jar"/>
+        <file crc="4198426965" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/batik-xml.jar"/>
+        <file crc="2663821284" name="modules/ext/org.netbeans.modules.plantumlnb/1/org-apache-xmlgraphics/xmlgraphics-commons.jar"/>
+        <file crc="2268634152" name="modules/ext/org.netbeans.modules.plantumlnb/1/xml-apis/xml-apis-ext.jar"/>
+        <file crc="3203011316" name="modules/ext/org.netbeans.modules.plantumlnb/1/xml-apis/xml-apis.jar"/>
+        <file crc="3819665095" name="modules/org-netbeans-modules-plantumlnb.jar"/>
+    </module_version>
+</module>

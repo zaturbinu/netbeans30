@@ -1,0 +1,1 @@
+ERROR:1,7:invalid export declaration [#parser.error.invalid.export]\nexport type OuterBoundary = {\n       ^

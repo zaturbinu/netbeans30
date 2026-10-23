@@ -1,0 +1,1 @@
+ERROR:8,15:Expected , but found \d [#parser.error.expected]\n	getByNode(node\d HTMLElement)\d ?BX.Landing.Block.Card\n	              ^

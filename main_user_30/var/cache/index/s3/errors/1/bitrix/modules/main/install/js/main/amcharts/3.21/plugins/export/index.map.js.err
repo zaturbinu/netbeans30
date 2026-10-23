@@ -1,0 +1,1 @@
+ERROR:1,10:Expected ; but found \d [#parser.error.expected]\n{"version"\d3,"file"\d"index.min.js","sources"\d["index.js"],"names"\d["require"],"mappings"\d"AAAAA,QAAQ,iCACRA,SAAQ"}\n          ^

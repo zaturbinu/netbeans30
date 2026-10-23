@@ -1,0 +1,1 @@
+ERROR:2,4:Expected , but found \d [#parser.error.expected]\n	rgb\d {r\d number, g\d number, b\d number, a?\d number}\n	   ^

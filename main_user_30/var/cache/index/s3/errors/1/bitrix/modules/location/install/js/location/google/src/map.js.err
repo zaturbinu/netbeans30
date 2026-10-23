@@ -1,0 +1,1 @@
+ERROR:53,13:Expected , but found \d [#parser.error.expected]\n	render(props\d Object)\d Promise\n	            ^

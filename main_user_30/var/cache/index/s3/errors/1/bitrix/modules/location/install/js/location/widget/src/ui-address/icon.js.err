@@ -1,0 +1,1 @@
+ERROR:21,14:Expected ) but found \d [#parser.error.expected]\n	set type(type\d string)\d void\n	             ^

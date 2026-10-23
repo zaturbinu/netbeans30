@@ -1,0 +1,1 @@
+ERROR:9,33:Expected , but found \d [#parser.error.expected]\n	static getSettings(extensionName\d string)\n	                                ^

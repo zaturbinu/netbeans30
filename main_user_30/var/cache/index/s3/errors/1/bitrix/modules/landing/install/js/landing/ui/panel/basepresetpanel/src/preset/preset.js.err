@@ -1,0 +1,1 @@
+ERROR:6,12:Expected ident but found { [#parser.error.expected]\nimport type {Options} from 'crm.form';\n            ^

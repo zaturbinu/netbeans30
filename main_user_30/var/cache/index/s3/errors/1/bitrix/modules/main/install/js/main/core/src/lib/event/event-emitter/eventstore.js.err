@@ -1,0 +1,1 @@
+ERROR:5,20:Expected , but found \d [#parser.error.expected]\n	constructor(options\d { defaultMaxListeners?\d number } = {})\n	                   ^

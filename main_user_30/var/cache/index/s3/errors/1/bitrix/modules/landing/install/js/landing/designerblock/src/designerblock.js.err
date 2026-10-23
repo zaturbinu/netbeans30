@@ -1,0 +1,1 @@
+ERROR:15,5:Expected ; but found ManifestNodesItem [#parser.error.expected]\ntype ManifestNodesItem = {\n     ^

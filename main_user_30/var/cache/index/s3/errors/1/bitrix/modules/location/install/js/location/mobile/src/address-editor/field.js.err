@@ -1,0 +1,1 @@
+ERROR:37,18:Expected an operand but found \d [#parser.error.expected.operand]\n		isTitleVisible()\d boolean\n		                ^

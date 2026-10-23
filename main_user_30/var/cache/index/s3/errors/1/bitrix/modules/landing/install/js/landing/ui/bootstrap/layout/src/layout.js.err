@@ -1,0 +1,1 @@
+ERROR:6,5:Expected ; but found LayoutParamsType [#parser.error.expected]\ntype LayoutParamsType = {\n     ^

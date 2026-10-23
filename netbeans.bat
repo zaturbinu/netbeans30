@@ -1,0 +1,1 @@
+"C:\Program Files\NetBeans 6.9.1\bin\netbeans.exe" -J-client -J-Xms32m -J-Xmx384m -J-XX:PermSize=32m -J-XX:MaxPermSize=200m -J-Xverify:none -J-XX:CompileThreshold=100 -XX:+CompressedOOPS -XX:+AggressiveOpts -XX:+TieredCompilation -XX:+DoEscapeAnalysis -XX:+UseConcMarkSweepGC -J-XX:+CMSClassUnloadingEnabled -J-XX:+CMSPermGenSweepingEnabled

@@ -1,0 +1,1 @@
+ERROR:21,7:invalid export declaration [#parser.error.invalid.export]\nexport type AddressConstructorProps = {\n       ^

@@ -1,0 +1,1 @@
+ERROR:13,14:Expected } but found LabelOptions [#parser.error.expected]\nimport { type LabelOptions} from './types/label-options';\n              ^

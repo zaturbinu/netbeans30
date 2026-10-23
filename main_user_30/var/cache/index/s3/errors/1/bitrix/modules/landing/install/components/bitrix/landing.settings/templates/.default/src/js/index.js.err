@@ -1,0 +1,1 @@
+ERROR:4,5:Expected ; but found PageOption [#parser.error.expected]\ntype PageOption = {\n     ^

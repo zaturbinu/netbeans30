@@ -1,0 +1,1 @@
+ERROR:1,21:Missing assignment to constant "RESOLVED" [#parser.error.missing.const.assignment]\nexport const RESOLVED\d string = 'resolved';\n                     ^

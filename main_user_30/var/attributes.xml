@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE attributes PUBLIC "-//NetBeans//DTD DefaultAttributes 1.0//EN" "http://www.netbeans.org/dtds/attributes-1_0.dtd">
+<attributes version="1.0">
+    <fileobject name="C:|server-uml|page_plant_2026_aug|newpumlTemplate.puml">
+        <attr name="requireProject" boolvalue="false"/>
+    </fileobject>
+    <fileobject name="C:|temp|netbeans|main_user_30|var|cache|remotefiles|14cd236c1a1e2048eb264ad44a0a3366.js">
+        <attr name="remote.url" stringvalue="https://unpkg.com/react-dom@latest/umd/react-dom.production.min.js"/>
+    </fileobject>
+    <fileobject name="C:|temp|netbeans|main_user_30|var|cache|remotefiles|182213933d1e185c75df6f015136ebeb.js">
+        <attr name="remote.url" stringvalue="https://unpkg.com/babel-standalone@latest/babel.js"/>
+    </fileobject>
+    <fileobject name="C:|temp|netbeans|main_user_30|var|cache|remotefiles|1c9eebe846b6f25474bd02c333ae4f15.js">
+        <attr name="remote.url" stringvalue="https://unpkg.com/react@latest/umd/react.production.min.js"/>
+    </fileobject>
+    <fileobject name="C:|temp|netbeans|main_user_30|var|cache|remotefiles|246cc6dd9466f6afcfa64f07ff10b46c.js">
+        <attr name="remote.url" stringvalue="https://unpkg.com/@babel/standalone/babel.min.js"/>
+    </fileobject>
+</attributes>

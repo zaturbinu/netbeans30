@@ -1,0 +1,1 @@
+ERROR:34,24:Expected an operand but found \d [#parser.error.expected.operand]\n	getCategoriesDropdown()\d BX.Landing.UI.Field.Dropdown\n	                       ^

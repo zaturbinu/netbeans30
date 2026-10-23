@@ -1,0 +1,1 @@
+ERROR:5,34:Expected , but found \d [#parser.error.expected]\nexport default function parse(html\d string, substitutions)\d Array<any>\n                                  ^

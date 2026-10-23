@@ -1,0 +1,1 @@
+ERROR:18,26:Expected , but found \d [#parser.error.expected]\n	static replace(oldElement\d ?HTMLElement, newElement\d ?HTMLElement)\n	                         ^

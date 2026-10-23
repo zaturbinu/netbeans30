@@ -1,0 +1,1 @@
+ERROR:1,36:Expected , but found \d [#parser.error.expected]\nexport default function hslToRgb(hsl\d {h\d number, s\d number, l\d number})\d {r\d number, g\d number, b\d number}\n                                    ^

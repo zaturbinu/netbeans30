@@ -1,0 +1,1 @@
+ERROR:5,49:Expected , but found \d [#parser.error.expected]\nexport default function rgbStringToHsla(rgbString\d string)\d { h\d number, s\d number, l\d number, a\d number}\n                                                 ^

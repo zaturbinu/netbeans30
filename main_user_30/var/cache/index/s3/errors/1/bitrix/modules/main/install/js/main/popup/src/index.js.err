@@ -1,0 +1,1 @@
+ERROR:32,12:Expected ident but found { [#parser.error.expected]\nimport type { PopupOptions, PopupTarget, PopupTargetOptions, PopupAnimationOptions } from './popup/popup-types';\n            ^

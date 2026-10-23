@@ -1,0 +1,1 @@
+ERROR:6,6:Expected ; but found \d [#parser.error.expected]\n	#left\d number;\n	     ^

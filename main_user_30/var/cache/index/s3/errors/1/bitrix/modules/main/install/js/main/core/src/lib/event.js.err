@@ -1,0 +1,1 @@
+ERROR:14,12:Expected ; but found \d [#parser.error.expected]\n	static bind\d bind = bind;\n	           ^

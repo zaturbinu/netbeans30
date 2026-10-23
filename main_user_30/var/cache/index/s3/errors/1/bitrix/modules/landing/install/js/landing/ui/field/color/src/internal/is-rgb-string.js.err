@@ -1,0 +1,1 @@
+ERROR:3,45:Expected , but found \d [#parser.error.expected]\nexport default function isRgbString(rgbString\d string)\d boolean\n                                             ^

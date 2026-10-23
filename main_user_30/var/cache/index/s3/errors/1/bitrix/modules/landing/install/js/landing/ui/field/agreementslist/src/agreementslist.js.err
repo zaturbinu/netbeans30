@@ -1,0 +1,1 @@
+ERROR:19,5:Expected ; but found Agreement [#parser.error.expected]\ntype Agreement = {\n     ^

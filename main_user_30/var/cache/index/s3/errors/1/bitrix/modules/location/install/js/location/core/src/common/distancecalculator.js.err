@@ -1,0 +1,1 @@
+ERROR:10,38:Expected , but found \d [#parser.error.expected]\n	static getDistanceFromLatLonInKm(lat1\d number, lon1\d number, lat2\d number, lon2\d number)\d number\n	                                     ^

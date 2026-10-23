@@ -1,0 +1,1 @@
+ERROR:3,23:Expected , but found \d [#parser.error.expected]\n	static linear(progress\d number)\d number\n	                      ^

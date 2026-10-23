@@ -1,0 +1,1 @@
+ERROR:88,12:Expected an operand but found \d [#parser.error.expected.operand]\n	resetView()\d void\n	           ^

@@ -1,0 +1,1 @@
+ERROR:5,29:Expected ( but found < [#parser.error.expected]\nexport async function tryLoad<T>(extensions\d Array<string>, callback\d () => Promise<T>)\d Promise<T>\n                             ^

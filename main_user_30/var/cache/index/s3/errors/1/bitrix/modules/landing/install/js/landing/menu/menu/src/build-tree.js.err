@@ -1,0 +1,1 @@
+ERROR:1,38:Expected , but found \d [#parser.error.expected]\nexport default function buildTree(root\d HTMLElement, selector, parent = null, depth = 0)\n                                      ^

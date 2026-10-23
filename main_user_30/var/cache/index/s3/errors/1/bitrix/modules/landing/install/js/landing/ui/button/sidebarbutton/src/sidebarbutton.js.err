@@ -1,0 +1,1 @@
+ERROR:40,17:Expected , but found \d [#parser.error.expected]\n	createLabel(icon\d string, text\d string)\d HTMLSpanElement\n	                ^

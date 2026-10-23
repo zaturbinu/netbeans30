@@ -1,0 +1,1 @@
+ERROR:4,36:Expected ) but found \d [#parser.error.expected]\nEvent.bind(document, 'click', (event\d MouseEvent) => {\n                                    ^

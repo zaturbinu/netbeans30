@@ -1,0 +1,1 @@
+ERROR:2,14:Expected } but found BaseEvent [#parser.error.expected]\nimport { type BaseEvent } from 'main.core.events';\n              ^

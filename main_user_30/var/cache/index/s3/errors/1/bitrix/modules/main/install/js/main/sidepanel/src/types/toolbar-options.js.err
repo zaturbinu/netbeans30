@@ -1,0 +1,1 @@
+ERROR:1,14:Expected } but found ToolbarItemOptions [#parser.error.expected]\nimport { type ToolbarItemOptions } from './toolbar-item-options';\n              ^

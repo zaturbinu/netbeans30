@@ -1,0 +1,1 @@
+ERROR:18,9:Expected ; but found \d [#parser.error.expected]\n	resolver\d function;\n	        ^

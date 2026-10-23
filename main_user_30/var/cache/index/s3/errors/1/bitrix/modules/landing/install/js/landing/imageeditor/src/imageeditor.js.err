@@ -1,0 +1,1 @@
+ERROR:10,20:Expected , but found \d [#parser.error.expected]\n	static edit(options\d {image\d string, dimensions\d {width\d number, height\d number}})\n	                   ^

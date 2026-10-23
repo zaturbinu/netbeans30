@@ -1,0 +1,1 @@
+ERROR:6,36:Expected , but found \d [#parser.error.expected]\nexport default function getTag(value\d any)\n                                    ^

@@ -1,0 +1,1 @@
+ERROR:26,20:Expected , but found \d [#parser.error.expected]\n	constructor(options\d {})\n	                   ^

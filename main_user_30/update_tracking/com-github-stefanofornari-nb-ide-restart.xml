@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<module codename="com.github.stefanofornari.nb.ide.restart">
+    <module_version install_time="1779910955050" last="true" origin="NetBeans Plugin Portal" specification_version="0.0.1">
+        <file crc="1822665160" name="config/Modules/com-github-stefanofornari-nb-ide-restart.xml"/>
+        <file crc="3288861293" name="modules/com-github-stefanofornari-nb-ide-restart.jar"/>
+        <file crc="1766226300" name="update_tracking/com-github-stefanofornari-nb-ide-restart.xml"/>
+    </module_version>
+</module>

@@ -1,0 +1,1 @@
+ERROR:1,13:Expected } but found Thumbnail [#parser.error.expected]\nimport {type Thumbnail} from 'thumbnail';\n             ^

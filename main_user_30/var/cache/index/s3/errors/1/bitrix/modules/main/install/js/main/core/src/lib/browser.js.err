@@ -1,0 +1,1 @@
+ERROR:188,24:Expected , but found \d [#parser.error.expected]\n	static isDoctype(target\d any)\n	                       ^

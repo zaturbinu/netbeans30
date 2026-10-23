@@ -1,0 +1,1 @@
+ERROR:3,28:Expected an operand but found \d [#parser.error.expected.operand]\nexport function waitOnline()\d Promise<void>\n                            ^

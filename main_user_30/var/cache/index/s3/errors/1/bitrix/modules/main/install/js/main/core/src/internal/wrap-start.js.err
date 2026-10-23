@@ -1,0 +1,1 @@
+ERROR:6,2:Expected } but found eof [#parser.error.expected]\n	}\n	 ^

@@ -1,0 +1,1 @@
+ERROR:11,6:Expected ; but found \d [#parser.error.expected]\n	items\d BaseCollection<FormSettingsForm | HeaderCard | MessageCard>;\n	     ^

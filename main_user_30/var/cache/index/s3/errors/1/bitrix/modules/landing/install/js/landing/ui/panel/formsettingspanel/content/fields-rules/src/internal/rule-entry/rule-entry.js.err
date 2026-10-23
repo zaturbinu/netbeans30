@@ -1,0 +1,1 @@
+ERROR:11,5:Expected ; but found RuleEntryOptions [#parser.error.expected]\ntype RuleEntryOptions = {\n     ^

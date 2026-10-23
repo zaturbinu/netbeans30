@@ -1,0 +1,1 @@
+ERROR:71,26:Expected an operand but found \d [#parser.error.expected.operand]\n	static isReference(value)\d boolean\n	                         ^

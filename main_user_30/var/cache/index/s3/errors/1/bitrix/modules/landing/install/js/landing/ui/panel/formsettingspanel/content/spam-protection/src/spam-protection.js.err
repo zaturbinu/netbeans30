@@ -1,0 +1,1 @@
+ERROR:65,24:Expected , but found \d [#parser.error.expected]\n	getServiceForm(isHidden\d boolean, chosenCaptcha\d string)\d FormSettingsForm\n	                       ^

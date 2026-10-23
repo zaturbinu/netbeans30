@@ -1,0 +1,1 @@
+ERROR:1,20:Expected } but found JsonObject [#parser.error.expected]\nimport { Type, type JsonObject } from 'main.core';\n                    ^

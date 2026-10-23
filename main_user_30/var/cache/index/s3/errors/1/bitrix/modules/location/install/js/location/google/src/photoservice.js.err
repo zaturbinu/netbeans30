@@ -1,0 +1,1 @@
+ERROR:35,20:Expected , but found \d [#parser.error.expected]\n	requestPhotos(props\d BasePhotoServiceRequestPhotosPropsType)\d Promise\n	                   ^

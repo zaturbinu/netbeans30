@@ -1,0 +1,1 @@
+ERROR:5,40:Expected , but found \d [#parser.error.expected]\nexport default function unbindAll(target\d any, eventName?\d string)\d void\n                                        ^
